@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PY-252.26830.99">
+    <data-source name="meta_with_media.duckdb" uuid="6539a443-d221-416a-b213-a8b1d6136a51">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="UNKNOWN" />
+      <secret-storage>master_key</secret-storage>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
